@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'bot',
+      name: '•𝙱𝙚᥉𝕥ĩ𝙚᥉ƒ𝗼𝓻𝙚ѵᥱ𝓻💕🐝•',
       script: 'index.js',
       instances: 1,
       autorestart: true,
